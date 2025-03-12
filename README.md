@@ -15,3 +15,7 @@ A graphic interface made to kontrol the available lights on an APCmini mk1. This
 * This software only guarentees to light up the buttons on the controller, it does not currently receive midi information from the controller.
 * The shift button does not seem to be lightable using the midi control commands.
 * This is made to work only on Windows and was tested on windows 10 only. There is no plan to adapt the code for macOS or Linux.
+
+## Building
+
+* This project is my first qml/qt6 project and was made using the QtCreator app. Follow the qt documentation to import a project.
