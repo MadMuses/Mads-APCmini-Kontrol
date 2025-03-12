@@ -9,6 +9,8 @@ A graphic interface made to kontrol the available lights on an APCmini mk1. This
 * By default, the current configuration will be saved when the software is closed. This can be turned off by clicking the save on close button and having it on OFF (red).
 * Only one configuration can be saved at a time. Clicking the save config button will save the current config and clicking on the load latest will load the saved config.
 * The clear all button clears the entire AKAI bord.
+* If you want it to initialise the latest config automatically, you should plug the APC in before launching the software.
+  * However, the automatic load is only out of convenience, you can do it at any time with the "load latest" button.
 
 ## WARNING
 
